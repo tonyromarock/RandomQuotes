@@ -17,10 +17,6 @@
             "Quote": "That's planning for failure, Morty...Even dumber than regular planning."
         },
         {
-            "Name": "Tobias Fünke",
-            "Quote": "Are you forgetting that I was a professional twice over? An analyst and a therapist. The world's first analrapist."
-        },
-        {
             "Name": "John Pinette",
             "Quote": "The bills are late, but I got good toilet paper."
         },
@@ -31,6 +27,18 @@
         {
             "Name": "Gin Rummy from The Boondocks",
             "Quote": "The absence of evidence is not the evidence of absence."
+        },
+        {
+            "Name": "Susan Sontag",
+            "Quote": "Time exists in order that everything doesn't happen all at once...and space exists so that it doesn't all happen to you."
+        },
+        {
+            "Name": "Ben Lerner",
+            "Quote": "Nothing in the world is as old as what was futuristic in the past."
+        },
+        {
+            "Name": "Danny Chau",
+            "Quote": "Unwritten rules are rules that no one bothered to write down because they're about feelings, a subject that no one wants to talk about."
         }
     ]
     
